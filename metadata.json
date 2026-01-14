@@ -1,0 +1,12 @@
+{
+  "name": "Zaid's Professional Portfolio",
+  "description": "An enhanced professional portfolio webpage for Zaid, featuring a darker header, more prominent section titles, and interactive cards, built with Tailwind CSS.",
+  "entry": "index.html",
+  "multiPage": false,
+  "files": [
+    "index.html",
+    "metadata.json"
+  ],
+  "tailwind": { "source": "play-cdn" },
+  "generatedAt": "2024-07-30T12:34:56Z"
+}
